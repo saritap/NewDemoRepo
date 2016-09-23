@@ -1,10 +1,9 @@
-package github;
 
-public class Demo {
+public class Piku {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-System.out.println("hu bye");
+System.out.println("what the f ");
 	}
 
 }
